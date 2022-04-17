@@ -67,5 +67,4 @@ let drawRandomFace =() => {
 	drawNose(nosetype);
 	drawmouth(expression);	
 }
-
 drawRandomFace();
